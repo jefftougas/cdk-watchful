@@ -22,17 +22,6 @@
   "jsii": {
     "outdir": "dist",
     "targets": {
-      "java": {
-        "package": "com.github.eladb.watchful",
-        "maven": {
-          "groupId": "com.github.eladb",
-          "artifactId": "cdk-watchful"
-        }
-      },
-      "python": {
-        "distName": "cdk-watchful",
-        "module": "cdk_watchful"
-      }
     }
   },
   "author": {

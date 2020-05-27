@@ -1,7 +1,7 @@
 yarn-error.log
 .jsii
 
-dist/
+#dist/
 
 *.js
 *.d.ts
